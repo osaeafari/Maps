@@ -1,0 +1,25 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osaeafari/Maps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osaeafari/Maps/issues"
+  },
+  "homepage": "https://github.com/osaeafari/Maps#readme",
+  "dependencies": {
+    "@types/faker": "^5.5.9",
+    "@types/google.maps": "^3.46.1",
+    "faker": "^5.5.3"
+  }
+}
